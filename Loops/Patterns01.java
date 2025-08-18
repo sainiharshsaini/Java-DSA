@@ -289,26 +289,26 @@ public class Patterns01 {
         int n = sc.nextInt();
         
         Print01(n);
-        Print02(n);
-        Print03(n);
-        Print04(n);
-        Print05(n);
-        Print06(n);
-        Print07(n);
-        Print08(n);
-        Print09(n);
-        Print10(n);
-        Print11(n);
-        Print12(n);
-        Print13(n);
-        Print14(n);
-        Print15(n);
-        Print16(n);
-        Print17(n);
-        Print18(n);
-        Print19(n);
-        Print20(n);
-        Print21(n);
-        Print22(n);
+        // Print02(n);
+        // Print03(n);
+        // Print04(n);
+        // Print05(n);
+        // Print06(n);
+        // Print07(n);
+        // Print08(n);
+        // Print09(n);
+        // Print10(n);
+        // Print11(n);
+        // Print12(n);
+        // Print13(n);
+        // Print14(n);
+        // Print15(n);
+        // Print16(n);
+        // Print17(n);
+        // Print18(n);
+        // Print19(n);
+        // Print20(n);
+        // Print21(n);
+        // Print22(n);
     }
 }
