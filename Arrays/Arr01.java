@@ -118,7 +118,7 @@ public class Arr01 {
         // SecondMaxMinOptimal(Arr);
 
         // checkSortedBF(Arr);
-        checkSortedOptimal(Arr);
+        // checkSortedOptimal(Arr);
 
     }
 }
